@@ -1,0 +1,81 @@
+#ab{
+    background-color: rgb(91, 91, 199);
+    height: 470px;
+    width: 760px;
+    margin-left: 120px;
+    padding-top: 80px;
+    padding-left: 60px;
+}
+#bc{
+    height: 440px;
+    width: 720px; 
+    background-color: rgb(236, 226, 226);
+    margin-left: 175px;
+    margin-top: -480px;
+}
+#cd{
+    height: 400px;
+    width: 320px;
+    background-color: rgb(250, 249, 248);
+    margin-left: 205px;
+    margin-top: -420px;
+}
+#de{
+    height: 440px;
+    width: 340px;
+    float: right;
+}
+#ef{
+    margin-top: -390px;
+    margin-left: 210px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 23px;
+}
+#fg{
+    margin-left: 210px;
+    margin-top: -15px;
+}
+#gh{
+    margin-left: 210px;
+    font-family: serif;
+    font-weight: bold;
+}
+#hi{
+margin-left: 210px;
+}
+#lm{
+    background-color: rgb(111, 111, 226);
+    height: 33px;
+    width: 230px;
+    margin-left: 240px;
+    border-radius: 10px;
+}
+#mn{
+    margin-left: 310px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: white;
+    margin-top: -32px;
+}
+#aa{
+    display: inline;
+}
+#ing{
+    height: 40px;
+    width: auto;
+    margin-left: 220px;
+    border-radius: 6px;
+    padding: 0px 15px;
+    font-size: 20px;
+    color: rgb(228, 47, 107);
+}
+#bt{
+    height: 40px;
+    width: auto;
+    margin-left: 10px;
+    border-radius: 6px;
+    padding: 0px 10px;
+    font-size: 20px;
+    color: rgb(44, 44, 175);
+}
